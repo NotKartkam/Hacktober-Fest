@@ -1,0 +1,4 @@
+pydantic>=2.0.0
+lm-format-enforcer>=0.10.0
+jsonschema>=4.20.0
+typing-extensions>=4.10.0
